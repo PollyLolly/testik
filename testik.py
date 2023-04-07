@@ -1,6 +1,7 @@
 import pytest
 import datetime
 
+#pip install pytest
 #pytest testik.py -r junitxml > result.txt
 #pytest testik.py
 
